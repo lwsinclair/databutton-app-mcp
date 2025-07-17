@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/databutton-databutton-app-mcp-badge.png)](https://mseep.ai/app/databutton-databutton-app-mcp)
+
 # Databutton App MCP
 
 Use API endpoints from your Databutton app as LLM tools from any MCP compatible client!
